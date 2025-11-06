@@ -1,10 +1,12 @@
-### 💡 About Me  
+<h2 align="center">💡 About Me</h2>
 
-🎓 3rd-year Engineering Student passionate about **software development** and **problem-solving**.  
-💻 Love coding in **Java** and exploring **Data Structures**, **Algorithms**, and **OOPs**.  
-🧠 Always eager to learn new technologies and improve my coding efficiency.  
-🤝 Open to collaborating on **Java** and **web development** projects.  
-⚡ Fun fact: I enjoy debugging more than coding—it’s like solving a mystery! 🕵️‍♀️  
+<p align="center">
+🎓 I'm a <b>3rd-year Engineering Student</b> passionate about <b>Software Development</b> and <b>Problem Solving</b>.<br><br>
+💻 I love coding in <b>Java</b> and exploring <b>Data Structures</b>, <b>Algorithms</b>, and <b>OOPs</b>.<br><br>
+🧠 Always eager to learn new technologies and improve my coding efficiency.<br><br>
+🤝 Open to collaborating on <b>Java</b> and <b>Web Development</b> projects.<br><br>
+⚡ Fun fact: I enjoy debugging more than coding — it’s like solving a mystery! 🕵️‍♀️
+</p>
 
 ---
 
@@ -15,40 +17,45 @@
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack  
 
 ### 🧠 Programming Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 ---
 
 ### 🌐 Web Technologies  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+</p>
 
 ---
 
 ### 🛠️ Tools & Version Control  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
 ---
 
 ### 🎨 Design & Productivity  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
+
 
 ---
 
@@ -61,8 +68,11 @@
 
 ## 🧮 CodeChef Stats  
 <p align="center">  
-  <img src="https://cp-logo.vercel.app/codechef/nithyasri15" alt="CodeChef Profile" />  
+  <a href="https://www.codechef.com/users/nithyasri15" target="_blank">  
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5A1A01?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />  
+  </a>  
 </p>
+
 
 ---
 
