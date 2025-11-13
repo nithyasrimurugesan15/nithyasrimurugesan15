@@ -95,9 +95,9 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nithyasrimurugesan15&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+</p> -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
