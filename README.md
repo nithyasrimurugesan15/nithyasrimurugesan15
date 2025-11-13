@@ -78,8 +78,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithyasrimurugesan15&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithyasrimurugesan15&show_icons=false&theme=dark" />
 </p>
+
 <p align="center">  
   <img src="https://nirzak-streak-stats.vercel.app/?user=nithyasrimurugesan15&theme=dark&hide_border=false" alt="GitHub Streak" />  
 </p>  
