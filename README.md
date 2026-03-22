@@ -51,7 +51,7 @@
   <a href="https://leetcode.com/nithyasrimurugesan">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/yourusername/">
+  <a href="https://www.geeksforgeeks.org/user/amnithyasrimurugesan/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
   <a href="https://www.codechef.com/users/nithyasri15">
@@ -61,10 +61,10 @@
 
 ---
 
-## 🏆 LeetCode Badges  
+## 🏆 LeetCode Achievements  
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nithyasrimurugesan&theme=dark&filter=all" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nithyasrimurugesan&theme=dark&animated=true" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 ### 🧠 GeeksforGeeks Stats  
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=yourusername&theme=dark" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=amnithyasrimurugesan&theme=dark" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ✔ REST APIs + MySQL + Maven  
 
 🔹 **DSA Tracker (Java)**  
-✔ Covers Arrays, Sliding Window, Searching  
+✔ Arrays, Sliding Window, Searching  
 
 🔹 **More Coming Soon... 🚀**
 
@@ -115,9 +115,18 @@
 
 ## 🎯 Goals  
 
-🔥 500+ DSA Problems  
-🚀 Strong Backend Developer  
-💼 Crack Top Product-Based Company  
+🔥 Solve 500+ DSA Problems  
+🚀 Become Strong Backend Developer  
+💼 Crack Product-Based Company  
+
+---
+
+## 🏆 Strengths  
+
+💡 Problem Solving  
+⚡ Debugging Skills  
+📚 Quick Learner  
+🎯 Consistency  
 
 ---
 
