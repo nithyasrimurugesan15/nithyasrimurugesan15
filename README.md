@@ -40,9 +40,8 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,spring,maven,mysql,postman,git,github,figma,blender" />
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,tailwind,spring,maven,mysql,postman,git,github,figma,notion,markdown,vscode,idea" />
 </p>
-
 ---
 
 ## 🧠 DSA Profiles  
