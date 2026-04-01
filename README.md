@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nithyasri</h1>
 
 <h3 align="center">
-🚀 Java Backend Developer | 💡 DSA Enthusiast | 🔥 Problem Solver
+🚀 Java Backend Developer | Spring Boot | JPA | Spring Security | AWS | DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Learner;DSA+Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Developer;DSA+Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 ## 💫 About Me  
 
 ✨ 3rd Year Engineering Student  
-💻 Passionate about **Java, DSA & Backend Development**  
-🚀 Currently learning **Spring Boot & System Design**  
-🧠 Love solving problems & optimizing solutions  
-🤝 Open for **Internships & Collaboration**  
+💻 Passionate about **Java, Backend Development & Problem Solving**  
+🚀 Currently learning **Spring Boot, System Design & Cloud (AWS)**  
+🧠 Focused on **DSA & Writing Optimized Code**  
+🤝 Open for **Internships & Collaboration Opportunities**  
 
 ---
 
@@ -39,9 +39,40 @@
 
 ## 🚀 Tech Stack  
 
+### 💻 Languages  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,tailwind,spring,maven,mysql,postman,git,github,figma,notion,markdown,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,c,python,js" />
 </p>
+
+### 🌐 Frontend  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+### ⚙️ Backend & Frameworks  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+<p align="center">
+🧩 Spring Boot | 🔐 Spring Security | 🗄️ JPA (Hibernate) | 🔑 JWT Authentication  
+</p>
+
+### 🗄️ Database  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### 🛠️ Tools & Platforms  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,figma,notion,vscode,idea,markdown" />
+</p>
+
 ---
 
 ## 🧠 DSA Profiles  
@@ -56,14 +87,6 @@
   <a href="https://www.codechef.com/users/nithyasri15">
     <img src="https://img.shields.io/badge/CodeChef-Visit-5B4638?style=for-the-badge&logo=codechef"/>
   </a>
-</p>
-
----
-
-## 🏆 LeetCode Achievements  
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nithyasrimurugesan&theme=dark&animated=true" />
 </p>
 
 ---
@@ -100,32 +123,14 @@
 
 ---
 
-## ⭐ Featured Projects  
-
-🔹 **Student Management System (Spring Boot)**  
-✔ REST APIs + MySQL + Maven  
-
-🔹 **DSA Tracker (Java)**  
-✔ Arrays, Sliding Window, Searching  
-
-🔹 **More Coming Soon... 🚀**
-
----
-
-## 🎯 Goals  
-
-🔥 Solve 500+ DSA Problems  
-🚀 Become Strong Backend Developer  
-💼 Crack Product-Based Company  
-
----
-
 ## 🏆 Strengths  
 
-💡 Problem Solving  
-⚡ Debugging Skills  
-📚 Quick Learner  
-🎯 Consistency  
+💡 Strong Problem-Solving Mindset (DSA Focused)  
+⚡ Ability to Write Optimized & Clean Code  
+🧠 Quick Learning & Adaptability to New Technologies  
+🔍 Debugging & Analytical Thinking  
+🚀 Consistent Practice & Self-Driven Improvement  
+🤝 Team Collaboration & Communication  
 
 ---
 
