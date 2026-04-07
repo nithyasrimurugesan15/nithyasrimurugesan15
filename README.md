@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithyasri</h1>
 
 <h3 align="center">
-🚀 Java Backend Developer | Spring Boot | JPA | Spring Security | AWS | DSA Enthusiast
+🚀 Java Backend Developer | Spring Boot | JPA | Spring Security | DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -16,11 +16,12 @@
 
 ## 💫 About Me  
 
-✨ 3rd Year Engineering Student  
-💻 Passionate about **Java, Backend Development & Problem Solving**  
-🚀 Currently learning **Spring Boot, System Design & Cloud (AWS)**  
-🧠 Focused on **DSA & Writing Optimized Code**  
-🤝 Open for **Internships & Collaboration Opportunities**  
+✨ 3rd Year Engineering Student with a strong interest in backend development  
+💻 Passionate about building scalable applications using **Java & Spring Boot**  
+🚀 Currently exploring **System Design and Advanced Backend Concepts**  
+🧠 Actively practicing **Data Structures & Algorithms for problem-solving mastery**  
+🎯 Goal-oriented learner focused on becoming a skilled **Software Engineer**  
+🤝 Open to **Internships, Projects & Collaboration Opportunities**  
 
 ---
 
@@ -63,14 +64,9 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ☁️ Cloud & DevOps  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
 ### 🛠️ Tools & Platforms  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postman,figma,notion,vscode,idea,markdown" />
+<img src="https://skillicons.dev/icons?i=postman,figma,notion,vscode,idea,markdown,git,github" />
 </p>
 
 ---
@@ -81,12 +77,6 @@
   <a href="https://leetcode.com/nithyasrimurugesan">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/amnithyasrimurugesan/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-  </a>
-  <a href="https://www.codechef.com/users/nithyasri15">
-    <img src="https://img.shields.io/badge/CodeChef-Visit-5B4638?style=for-the-badge&logo=codechef"/>
-  </a>
 </p>
 
 ---
@@ -96,13 +86,6 @@
 ### 🧩 LeetCode Stats  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nithyasrimurugesan?theme=dark&font=Montserrat&ext=contest"/>
-</p>
-
----
-
-### 🧠 GeeksforGeeks Stats  
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=amnithyasrimurugesan&theme=dark" />
 </p>
 
 ---
@@ -125,12 +108,12 @@
 
 ## 🏆 Strengths  
 
-💡 Strong Problem-Solving Mindset (DSA Focused)  
-⚡ Ability to Write Optimized & Clean Code  
-🧠 Quick Learning & Adaptability to New Technologies  
-🔍 Debugging & Analytical Thinking  
-🚀 Consistent Practice & Self-Driven Improvement  
-🤝 Team Collaboration & Communication  
+💡 Strong foundation in **Data Structures & Algorithms** with consistent practice  
+⚡ Ability to write **clean, efficient, and maintainable code**  
+🧠 Fast learner with adaptability to new tools and technologies  
+🔍 Good at **debugging, problem analysis, and logical thinking**  
+🚀 Self-motivated with a growth mindset and continuous improvement focus  
+🤝 Effective **team collaboration and communication skills**  
 
 ---
 
