@@ -77,8 +77,11 @@
   <a href="https://leetcode.com/nithyasrimurugesan">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?style=for-the-badge&logo=leetcode"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/user/amnithyasrimurugesan/"> 
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
 </p>
-<a href="https://www.geeksforgeeks.org/user/amnithyasrimurugesan/"> <img src="https://img.shields.io/badge/GeeksforGeeks-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks"/> </a>
+
 
 ---
 
