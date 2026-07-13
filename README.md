@@ -16,7 +16,7 @@
 
 ## 💫 About Me  
 
-✨ 3rd Year Engineering Student with a strong interest in backend development  
+✨ Final Year Engineering Student with a strong interest in backend development  
 💻 Passionate about building scalable applications using **Java & Spring Boot**  
 🚀 Currently exploring **System Design and Advanced Backend Concepts**  
 🧠 Actively practicing **Data Structures & Algorithms for problem-solving mastery**  
